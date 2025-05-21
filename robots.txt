@@ -1,3 +1,9 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://vickykotlso.github.io/Putivec/sitemap.xml
+Sitemap: https://vickykoltso.github.io/Putivec/sitemap.xml
